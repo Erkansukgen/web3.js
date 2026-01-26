@@ -133,6 +133,6 @@
 	},
 	"packageManager": "yarn@1.22.15",
 	"dependencies": {
-		"webpack-bundle-analyzer": "^4.7.0"
+		"webpack-bundle-analyzer": "^5.2.0"
 	}
 }
